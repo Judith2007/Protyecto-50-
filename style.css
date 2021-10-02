@@ -2,7 +2,7 @@
     display: flex;
     justify-content: space-between ;
     background-color: black;
-    font-size: 30px;
+    font-size: 20px;
     font-family: sans-serif;
     font-weight: 400;
     color: white;
@@ -17,7 +17,7 @@ body {
 
 .grid img{
     border: 2px solid black;
-    border-radius: 600px;
+    border-radius: 50px;
 }
 
 .origami{
